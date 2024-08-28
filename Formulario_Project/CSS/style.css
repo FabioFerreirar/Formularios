@@ -66,3 +66,21 @@ textarea {
 
 }
 
+/* form header */
+
+.form-header {
+    /* box-sizing: border-box; */
+    border-bottom: 1px solid #dfdfdf;
+    height: 45px;
+}
+
+.form-header p {
+    color: #673ab7;
+   border-bottom: 2px solid;
+   width: 100px;
+   text-align: center;
+ margin: 0 auto;   /* Técnica para alinhar o texto no centro */
+ text-transform: uppercase;
+ height: 45px;
+ line-height: 45px;
+}
